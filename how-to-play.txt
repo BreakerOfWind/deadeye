@@ -1,0 +1,7 @@
+1. To play, you need to stay alive for as long as possible. 
+2. I recommend having terminal open while you play so you can see the time remaining. 
+3. The timer is always counting down, it starts with 5 seconds remaining and if it reaches 0, you die. 
+4. When you click the vbux card, your time remaining goes up (3 --> 4).
+5. However if you miss, you lose one second (3 --> 2)
+
+Goodluck, it's kind of hard ig (hard like 😏)
